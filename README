@@ -1,0 +1,67 @@
+  ---WELCOME----
+# Rock, Paper, Scissors Game Project.
+
+Welcome to the Rock, Paper, Scissors game project! This simple command-line game allows players to compete against the computer in the classic hand game.
+
+## Table of Contents
+- [Game Overview](#game-overview)
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Game Overview
+
+The Rock, Paper, Scissors game is a classic hand game. In this project, we have implemented a simple version of the game where the player selects one of the three options: Rock, Paper, or Scissors, and competes against the computer's choice. The game logic is implemented in [Java](https://www.java.com/), making it easy to run in a command-line environment.
+
+## Installation
+
+To run the game on your local machine, follow these steps:
+
+1. Clone this GitHub repository:
+   ```bash
+   git clone https://github.com/yourusername/rock-paper-scissors.git
+
+2. Navigate to the project directory:
+'''bash
+cd rock-paper-scissors.
+
+3.   Compile the Java source files:
+'''bash
+javac Main.java.
+
+4. Run the game:
+'''bash
+java Main.
+
+
+How to Play
+
+  1.  Open your command-line terminal.
+
+  2.  Navigate to the directory where the game is installed.
+
+  3.  Run the game using the java Main command.
+
+  4.  Follow the on-screen instructions to select your choice (Rock, Paper, or Scissors).
+
+  5.  The computer will randomly select its choice.
+
+  6.  The game will display the result (Win, Lose, or Draw) and the computer's choice.
+
+   7. Play again or exit the game as prompted.  
+
+Features
+
+  *  User-friendly command-line interface.
+  *  Simple and fun Rock, Paper, Scissors gameplay.
+  *  Random computer choice for added challenge.
+  * Easy-to-understand game rules.
+  *  The game logic is implemented in Java.
+
+Contributing :-
+Contributions to this project are welcome! If you would like to enhance the game, fix bugs, or improve documentation, please feel free to open an issue or create a pull request.
+
+ThnakYou:-
+          Md Sabaj Ali.
